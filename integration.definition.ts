@@ -4,6 +4,7 @@ import { integrationName } from './package.json'
 export default new IntegrationDefinition({
   name: integrationName,
   title: 'ANYbotics Google Chat Integration',
+  description: 'Google chat integration with standard in-thread replies.',
   version: '0.7.2',
   readme: 'hub.md',
   icon: 'file.svg',
