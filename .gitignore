@@ -1,0 +1,5 @@
+node_modules
+.botpress
+.DS_Store
+file.svg
+icon.svg
